@@ -1,1 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/elNiNQly)
+# Лабораторная работа 4
+
+## Работа с sqlite3
+
+В ходе данной лабораторной работы мы рассматривали работу с базами данных, используя sqlite3 и DB Browser(SQLite). В частности, мы рассмаривали базовые команды: select< create table, update и т.д.
+
+## Задание 6
+
+В 6 задании 4 лабораторной работы требовалось написать программу по модели КИС, которая бы подключалась к базе данных и работала с ней
+
+## Building
+
+Для работы программы был создан Makefile
+
+## Ссылка
+
+Ссылка на отчёт: 
