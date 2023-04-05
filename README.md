@@ -14,4 +14,4 @@
 
 ## Ссылка
 
-Ссылка на отчёт: 
+Ссылка на отчёт: https://docs.google.com/document/d/1Wwsk_be0JKDbITjjB-cxkKOQDxwc1Sr0/edit?usp=share_link&ouid=110332686684394405955&rtpof=true&sd=true
